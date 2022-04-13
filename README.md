@@ -1,2 +1,2 @@
 # Functional-Programming
-Function Programs created in haskell or racket
+Function Programs created in haskell and racket
